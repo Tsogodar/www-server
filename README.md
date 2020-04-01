@@ -1,5 +1,5 @@
 # www-server
-Simple HTTP server - run angular app or other crazy shit
+Simple HTTP server - run angular app or other crazy something
 
 # Steps:
 
